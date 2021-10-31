@@ -1,6 +1,6 @@
 {
   "name": "@teazn/eslint-plugin-teazn",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "eslint rules for teazn",
   "main": "lib/index.js",
   "engines": {
