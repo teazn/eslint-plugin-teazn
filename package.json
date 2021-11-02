@@ -1,6 +1,6 @@
 {
   "name": "@teazn/eslint-plugin-teazn",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "eslint rules for teazn",
   "main": "lib/index.js",
   "engines": {
@@ -13,7 +13,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "peerDependencies": {
-    "eslint": ">=7.32.0"
+    "eslint": ">=8.1.0"
   },
   "repository": {
     "type": "git",
